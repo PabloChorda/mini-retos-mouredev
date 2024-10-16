@@ -1,3 +1,8 @@
+"""
+Crea un programa que determine si un número es par o impar
+
+"""
+
 def es_par_o_impar(numero: int) -> str:
     """Función que determina si un número es par o impar."""
     return "par" if numero % 2 == 0 else "impar"

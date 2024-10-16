@@ -1,3 +1,9 @@
+"""
+Crea una calculadora de
+calorías recomendadas segun la tasa metabólica.
+"""
+
+
 def calcular_tmb(peso: float, altura: float, edad: int, sexo: str) -> float:
     """Calcula la Tasa Metabólica Basal (TMB) usando la fórmula de Mifflin-St Jeor"""
     if sexo.lower() == 'hombre':
