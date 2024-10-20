@@ -1,6 +1,7 @@
 """ 
 CONTADOR DE VOCALES
-Crea un programa que cuente cuantas vocales tiene una cadena de texto
+Crea un programa que pueda contar cuantas vocales 
+tiene una cadena de texto.
 """
 
 import re
