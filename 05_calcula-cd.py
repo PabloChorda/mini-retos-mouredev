@@ -1,6 +1,6 @@
 """
-Crea una calculadora de
-calorías recomendadas segun la tasa metabólica.
+Crea una programa/calculadora de
+calorías recomendadas segun tu tasa metabólica.
 """
 
 
