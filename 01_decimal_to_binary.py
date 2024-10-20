@@ -1,7 +1,7 @@
 """
 DECIMAL A BINARIO
 Crea un programa se encargue de
-transformar un número decimal a binario.
+transformar un número decimal a uno binario.
 """
 
 def decimal_to_binary(decimal):
