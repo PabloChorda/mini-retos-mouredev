@@ -1,6 +1,6 @@
 """
 IMC
-Crea una calculadora del
+Crea un programa para calcular el
 índice de masa corporal.
 """
 
